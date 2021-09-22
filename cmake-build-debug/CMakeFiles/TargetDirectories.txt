@@ -1,0 +1,3 @@
+C:/Users/zyming/CLionProjects/CharacterizingFormulas_ComputationTree/cmake-build-debug/CMakeFiles/CharacterizingFormulas_ComputationTree.dir
+C:/Users/zyming/CLionProjects/CharacterizingFormulas_ComputationTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zyming/CLionProjects/CharacterizingFormulas_ComputationTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
